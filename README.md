@@ -1,4 +1,4 @@
-![MasterHead](https://www.serviceobjects.com/blog/wp-content/uploads/2015/03/iStock-629285904-Blog-4379.jpg)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Doğukan Yaşar</h1>
 <h3 align="center">Software Engineer Student</h3>
 
