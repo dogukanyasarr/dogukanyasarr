@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan Yaşar</h1>
 <h3 align="center">Software Engineer Student</h3>
 
-<p align="rignt" alt="coding" with='400' src"https://img.freepik.com/premium-vector/cute-boy-with-laptop-social-media-icons-vector-illustration-graphic-design_1142-82901.jpg">
+<p align="rignt" alt="coding" with='200' src"https://img.freepik.com/premium-vector/cute-boy-with-laptop-social-media-icons-vector-illustration-graphic-design_1142-82901.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanyasarr&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanyasarr" /> </p>
 
