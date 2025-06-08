@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Yaşar</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/cute-boy-with-laptop-social-media-icons-vector-illustration-graphic-design_1142-82901.jpg" alt="coding" width="200"/>
